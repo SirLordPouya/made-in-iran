@@ -232,7 +232,7 @@ If you want to contribute, note that you should only update `data.json`.
 17 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper around Android&#39;s SQLiteDatabase with restoring capability | 
 15 | [@MostafaNasiri](https://github.com/MostafaNasiri)/[**CircularPulsingButton**](https://github.com/MostafaNasiri/CircularPulsingButton) | A circular button with pulse effect for Android. | 
 13 | [@MostafaNasiri](https://github.com/MostafaNasiri)/[**RtlNavigationView**](https://github.com/MostafaNasiri/RtlNavigationView) | Android RTL Navigation Drawer | 
-
+182 | [@SirLordPouya](https://github.com/SirLordPouya)/[**AndroidAppUpdater**](https://github.com/SirLordPouya/AndroidAppUpdater) | :flashlight:App Updater is a library to show update dialog to your users, whenever a new version of your application is available. | [:arrow_upper_right:](https://pouyaheydari.com)
 
 <h3><a name="erlang"></a>Erlang</h3>
 
